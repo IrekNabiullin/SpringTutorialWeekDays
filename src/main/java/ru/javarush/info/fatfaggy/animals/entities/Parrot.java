@@ -1,7 +1,7 @@
 package ru.javarush.info.fatfaggy.animals.entities;
 import org.springframework.stereotype.Component;
 
-@Component ("parrot-matros")
+//@Component ("parrot-matros")
 public class Parrot {
     private String name = "Matros";
 

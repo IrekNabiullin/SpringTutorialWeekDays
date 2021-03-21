@@ -1,7 +1,7 @@
 package ru.javarush.info.fatfaggy.animals.entities;
 import org.springframework.stereotype.Component;
 
-@Component ("cat-pushok")
+//@Component ("cat-pushok")
 public class Cat {
     private String name = "Pushok";
 
